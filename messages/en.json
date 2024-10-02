@@ -1,0 +1,11 @@
+{
+    "HomePage": {
+      "title": "Myapp"
+      
+    },
+    "Header" :{
+        "Dark": "Dark",
+        "Light": "Light",
+        "System": "System"
+    }
+  }

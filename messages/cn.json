@@ -1,0 +1,11 @@
+{
+    "HomePage": {
+      "title": "我的应用"
+      
+    },
+    "Header" :{
+        "Dark": "黑暗",
+        "Light": "明亮",
+        "System": "系统"
+    }
+  }
